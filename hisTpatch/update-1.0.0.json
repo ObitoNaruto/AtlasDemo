@@ -23,7 +23,7 @@
 			],
 			"isMainDex":false,
 			"name":"com.taobao.firstbundle",
-			"srcUnitTag":"f238c3485f55448dcf5a5f1cf213ac85",
+			"srcUnitTag":"ea29a56bc629413664fc8f578e71bab4",
 			"unitTag":"ea29a56bc629413664fc8f578e71bab4",
 			"version":"1.0.0@1.0.2"
 		},
@@ -46,7 +46,7 @@
 		{
 			"isMainDex":true,
 			"name":"com.taobao.maindex",
-			"srcUnitTag":"ddd213d6304544415b79eaec800bce42",
+			"srcUnitTag":"ca1631ec8653d05e92ca7fed48c2b8f0",
 			"unitTag":"ca1631ec8653d05e92ca7fed48c2b8f0",
 			"version":"1.0.0@1.0.1"
 		}

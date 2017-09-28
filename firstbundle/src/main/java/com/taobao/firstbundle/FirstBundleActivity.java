@@ -19,7 +19,7 @@ public class FirstBundleActivity extends AppCompatActivity implements BlankFragm
 //        bundleCompile
         Log.e("providedComple awb", "invoke tools at public bundle  Tools.getCurrentTime() > " + Tools.getCurrentTime());
 
-        Toast.makeText(this,"dsfsfs{}{}{} ----+++++------2017.9.2-------???????????------",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"2017.9.27test",Toast.LENGTH_LONG).show();
     }
 
 //    @Override
