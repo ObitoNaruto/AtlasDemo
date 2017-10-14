@@ -106,13 +106,13 @@ dependencies {
     compile project(':activitygroupcompat')
 
     //业务bundle都是使用Atlas自定义的编译方法
-//    bundleCompile project(':firstbundle')
+    bundleCompile project(':firstbundle')
     bundleCompile project(':secondbundle')
     bundleCompile project(':remotebundle')
     bundleCompile project(':publicbundle')
     bundleCompile project(':databindbundle')
 
-    bundleCompile("com.taobao.demo:firstbundle:1.0.2@awb")
+//    bundleCompile("com.taobao.demo:firstbundle:1.0.2@awb")
 
     compile 'com.android.support:appcompat-v7:25.1.0'
     compile 'com.android.support:design:25.1.0'
