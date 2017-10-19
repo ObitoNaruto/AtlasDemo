@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/dialog_root_show_amin.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/dialog_main_show_amination.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/dialog_main_hide_amination.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/dialog_main_show_amination.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/dialog_root_show_amin.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/dialog_root_hide_amin.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/dialog_main_hide_amination.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/dialog_root_hide_amin.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a138b6acf5a3ae701840c15d98113f8c41e42ed7/output/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]

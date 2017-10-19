@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/androidTest/debug/layout-w900dp-v13/item_list.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/layout-w900dp-v13/item_list.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/androidTest/debug/layout-w900dp-v13/item_list.xml",
+        "source": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/layout-w900dp-v13/item_list.xml"
+    }
+]

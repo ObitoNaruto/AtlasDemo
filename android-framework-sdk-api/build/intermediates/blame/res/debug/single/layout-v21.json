@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasWrapper/android-framework-sdk/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/a2e44fe4200e5bb8a0e00e00474ad4eadfc5d4a7/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mi/Android/Sdk/.android/build-cache/d8fc9aceed6bed848cf7cf954c3d8d1c66fad925/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
