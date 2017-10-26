@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/xuxinming/.android/build-cache/3309e1390f972d3952c901246d7bfa9d286d67ba/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/dialog_main_hide_amination.xml",
+        "source": "/Users/xuxinming/android/daily/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/xuxinming/.android/build-cache/3309e1390f972d3952c901246d7bfa9d286d67ba/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/xuxinming/.android/build-cache/3309e1390f972d3952c901246d7bfa9d286d67ba/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/dialog_main_show_amination.xml",
+        "source": "/Users/xuxinming/android/daily/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/xuxinming/.android/build-cache/3309e1390f972d3952c901246d7bfa9d286d67ba/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/dialog_root_hide_amin.xml",
+        "source": "/Users/xuxinming/android/daily/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/xuxinming/.android/build-cache/3309e1390f972d3952c901246d7bfa9d286d67ba/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/xuxinming/.android/build-cache/3309e1390f972d3952c901246d7bfa9d286d67ba/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/dialog_root_show_amin.xml",
+        "source": "/Users/xuxinming/android/daily/AtlasDemo/middlewarelibrary/build/intermediates/bundles/default/res/anim/dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/anim/abc_slide_out_top.xml"
+    }
+]

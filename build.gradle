@@ -16,7 +16,8 @@ buildscript {
     }
     dependencies {
         //引入Atlas的插件
-        classpath "com.taobao.android:atlasplugin:2.3.3.rc1"////使用com.taobao.atlas.library时需要配置atlasplugin等classpath
+        classpath "com.taobao.android:atlasplugin:$localGradlePluginVersion"
+//        classpath "com.taobao.android:atlasplugin:2.3.3.rc1"////使用com.taobao.atlas.library时需要配置atlasplugin等classpath
     }
 }
 
@@ -34,4 +35,30 @@ subprojects {
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+
+ext {
+    //构建工具的版本，其中包括了打包工具aapt、dx等,如API20对应的build-tool的版本就是20.0.0
+    buildToolsVersion = localBuildToolsVersion
+    //编译的 SDK 版本，如API20,经实践测试，如果用26,则报:app:processResAwbDebug fail，改成25正常编译
+    compileSdkVersion = 25
+    //兼容的最低 SDK 版本
+    minSdkVersion = 14
+    //向前兼容，保存新旧两种逻辑，并通过 if-else 方法来判断执行哪种逻辑
+    targetSdkVersion = 25
+
+
+    //运行库
+    atlasCoreVersion = "5.0.7.30"
+    atlasupdateVersion = "1.1.4.10"
+    appcompat_v7Version = "25.1.0"
+    constraint_layoutVersion = "1.0.2"
+    support_v4_version = "25.1.0"
+    support_recyclerview_version = "25.3.0"
+    support_design_version = "25.3.0"
+    support_vector_drawable_version = "25.1.0"
+
+    fastjson_version = "1.1.45.android@jar"
+
+
 }

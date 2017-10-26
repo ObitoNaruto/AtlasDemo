@@ -169,8 +169,8 @@ public class ActivityGroupDelegate {
         String componentName = null ;
         Context context = container.getContext();//MainActivity
         if (intent.getComponent() != null) {
-            packageName = intent.getComponent().getPackageName();//com.taobao.demo
-            componentName = intent.getComponent().getClassName();//com.taobao.firstbundle.FirstBundleActivity
+            packageName = intent.getComponent().getPackageName();//com.com.mobile.android.launcher.taobao.demo
+            componentName = intent.getComponent().getClassName();//com.com.mobile.android.launcher.taobao.firstbundle.FirstBundleActivity
         } else {
             ResolveInfo resolveInfo = context.getPackageManager().resolveActivity(intent, 0);
             if (resolveInfo != null && resolveInfo.activityInfo != null) {
@@ -185,7 +185,7 @@ public class ActivityGroupDelegate {
             Log.e("ActivityGroupDelegate","childActivity can not be external Activity");
         }
 
-        String bundleName = AtlasBundleInfoManager.instance().getBundleForComponet(componentName);//com.taobao.firstbundle(获取待跳转的activity所在包名称)
+        String bundleName = AtlasBundleInfoManager.instance().getBundleForComponet(componentName);//com.com.mobile.android.launcher.taobao.firstbundle(获取待跳转的activity所在包名称)
         if(!TextUtils.isEmpty(bundleName)){
             BundleImpl impl = (BundleImpl) Atlas.getInstance().getBundle(bundleName);
             if(impl!=null&&impl.checkValidate()) {

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/xuxinming/android/daily/AtlasDemo/android-framework-sdk-api/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/xuxinming/.android/build-cache/36f1b6b5505f7348832530561d4f69fe3937968f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
