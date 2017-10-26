@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/src/main/assets"/><source path="/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/mi/xinming/study/androidNewTech/androiddemo/wanzheng_demo/AtlasDemo/android-framework-sdk-api/src/release/assets"/></dataSet></merger>

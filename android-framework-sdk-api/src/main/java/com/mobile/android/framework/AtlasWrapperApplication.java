@@ -3,6 +3,7 @@ package com.mobile.android.framework;
 import android.app.Application;
 
 import com.mobile.android.framework.base.AtlasWrapperApplicationContext;
+import com.mobile.android.framework.base.impl.AtlasWrapperApplicationContextImpl;
 import com.mobile.android.log.LogManager;
 
 /**
@@ -45,7 +46,8 @@ public class AtlasWrapperApplication extends Application {
     private void init() {
         //初始化AtlasWrapperApplicationContext
         try {
-            mAtlasWrapperApplicationContext = (AtlasWrapperApplicationContext) Class.forName("com.mobile.android.framework.base.impl.AtlasWrapperApplicationContextImpl").newInstance();
+//            mAtlasWrapperApplicationContext = (AtlasWrapperApplicationContext) Class.forName("com.mobile.android.framework.base.impl.AtlasWrapperApplicationContextImpl").newInstance();
+            mAtlasWrapperApplicationContext = new AtlasWrapperApplicationContextImpl();
             mAtlasWrapperApplicationContext.attachContext(this);
         } catch (Exception e) {
             LogManager.getInstance().e("AtlasWrapperApplication", "init throw a exception.", e);

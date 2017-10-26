@@ -4,8 +4,10 @@ import android.app.Application;
 
 import com.mobile.android.framework.base.AtlasWrapperApplicationContext;
 import com.mobile.android.framework.base.BootLoaderManager;
+import com.mobile.android.framework.base.ServicesLoaderManager;
 import com.mobile.android.framework.service.common.ExternalServiceManager;
 import com.mobile.android.framework.service.common.impl.ExternalServiceManagerImpl;
+import com.mobile.android.log.LogManager;
 
 /**
  * Created by xinming.xxm on 2016/10/19.
@@ -14,6 +16,7 @@ import com.mobile.android.framework.service.common.impl.ExternalServiceManagerIm
 public class BootLoaderManagerImpl implements BootLoaderManager {
 
     private AtlasWrapperApplicationContext mAtlasWrapperApplicationContext;
+    private ServicesLoaderManager mServicesLoaderManager;
 
     @Override
     public BootLoaderManagerImpl attachContext(AtlasWrapperApplicationContext atlasWrapperApplicationContext) {
@@ -39,6 +42,14 @@ public class BootLoaderManagerImpl implements BootLoaderManager {
         mAtlasWrapperApplicationContext.registerService(ExternalServiceManager.class.getName(), externalServiceManager);
 
         //2.
+        String servicesLoaderManagerStr = "com.mobile.android.android.framework.sdk.biz.ServicesLoaderManagerImpl";
+        try{
+            Class<?> clazz = application.getClassLoader().loadClass(servicesLoaderManagerStr);
+            mServicesLoaderManager = (ServicesLoaderManager)clazz.newInstance();
+            mServicesLoaderManager.load();
+        }catch (Exception e){
+            LogManager.getInstance().e(this.getClass().getSimpleName(), "ServicesLoaderManager init failed!", e);
+        }
 
     }
 }

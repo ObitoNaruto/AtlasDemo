@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.taobao.splashscreen.test", appContext.getPackageName());
+        assertEquals("com.com.mobile.android.launcher.taobao.splashscreen.test", appContext.getPackageName());
     }
 }

@@ -1,0 +1,67 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.taobao.atlas'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    dataBinding {
+        enabled = true
+    }
+
+}
+
+//开启atlas容器功能
+atlas {
+
+    tBuildConfig {
+        //引用了几个插件并没有配为自启动，那根据文档只能通过触发插件中Component的加载而启动插件，比如start一个bundle中的activity或者service。或者是通过手动调用代码加载一个插件(http://atlas.taobao.org/docs/guide-for-use/guide_for_bundle.html).
+        autoStartBundles = ['com.taobao.firstbundle'] //自启动bundle配置
+        outOfApkBundles = ['remotebundle']//不把bundle编译进APK，在客户端使用时下载后加载
+//        preLaunch = 'com.mobile.android.launcher.taobao.demo.DemoPreLaunch'//AppApplication启动之前调用
+        classInject false
+        dataBindingBundles = ['com.taobao.databindbundle', 'com.mobile.android.launcher']
+    }
+
+    bundleConfig{
+        awbBundle true
+    }
+
+    buildTypes {
+        debug {
+            baseApFile project.rootProject.file('app/build/outputs/apk/app-debug.ap')
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    providedCompile project(':middlewarelibrary')
+    providedCompile project(':splashscreen')
+    providedCompile project(':activitygroupcompat')
+
+    //业务bundle都是使用Atlas自定义的编译方法
+    providedCompile project(':android-framework-sdk-api')
+    providedCompile project(':android-framework-sdk-middle')
+    providedCompile project(':firstbundle')
+    //从私有库
+    //bundleCompile("com.taobao.demo:firstbundle:1.0.2@awb")
+    providedCompile project(':secondbundle')
+    providedCompile project(':remotebundle')
+    providedCompile project(':publicbundle')
+    providedCompile project(':databindbundle')
+}

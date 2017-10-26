@@ -47,8 +47,8 @@ public class WelcomeActivity extends AppCompatActivity {
             public void run() {
                 //跳转到APP首页的MainActivity(app目录)
                 Intent intent = new Intent();
-//                intent.setClassName(getBaseContext(),"com.taobao.demo.MainActivity");
-                intent.setClassName(WelcomeActivity.this,"com.taobao.demo.MainActivity");
+//                intent.setClassName(getBaseContext(),"com.com.mobile.android.launcher.taobao.demo.MainActivity");
+                intent.setClassName(WelcomeActivity.this,"com.mobile.android.launcher.taobao.demo.MainActivity");
                 startActivity(intent);
                 finish();
                 overridePendingTransition(-1,android.R.anim.slide_out_right);

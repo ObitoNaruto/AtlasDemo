@@ -4,9 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AtlasDemo.iml" filepath="$PROJECT_DIR$/AtlasDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/activitygroupcompat/activitygroupcompat.iml" filepath="$PROJECT_DIR$/activitygroupcompat/activitygroupcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-framework-sdk-api/android-framework-sdk-api.iml" filepath="$PROJECT_DIR$/android-framework-sdk-api/android-framework-sdk-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-framework-sdk-middle/android-framework-sdk-middle.iml" filepath="$PROJECT_DIR$/android-framework-sdk-middle/android-framework-sdk-middle.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/databindbundle/databindbundle.iml" filepath="$PROJECT_DIR$/databindbundle/databindbundle.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstbundle/firstbundle.iml" filepath="$PROJECT_DIR$/firstbundle/firstbundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/lottie/lottie.iml" filepath="$PROJECT_DIR$/lottie/lottie.iml" />
       <module fileurl="file://$PROJECT_DIR$/middlewarelibrary/middlewarelibrary.iml" filepath="$PROJECT_DIR$/middlewarelibrary/middlewarelibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/publicbundle/publicbundle.iml" filepath="$PROJECT_DIR$/publicbundle/publicbundle.iml" />

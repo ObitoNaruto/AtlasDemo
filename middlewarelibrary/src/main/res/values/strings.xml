@@ -1,5 +1,10 @@
 <resources>
+    <string name="app_name">AtlasDemo</string>
     <string name="library_name">MiddleWareLibrary</string>
     <string name="title_item_list">Items</string>
     <string name="title_item_detail">Item Detail</string>
+
+    <string name="title_activity_scrolling">动态部署模拟</string>
+
+    <string name="title_activity_update">UpdateActivity</string>
 </resources>

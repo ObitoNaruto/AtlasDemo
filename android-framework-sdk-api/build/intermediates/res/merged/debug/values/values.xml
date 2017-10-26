@@ -703,6 +703,8 @@
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_scrolling">动态部署模拟</string>
+    <string name="title_activity_update">UpdateActivity</string>
     <string name="title_item_detail">Item Detail</string>
     <string name="title_item_list">Items</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
