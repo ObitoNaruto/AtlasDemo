@@ -11,5 +11,5 @@
 /.idea/modules.xml
 /app/build.gradle
 gradle.properties
-/.idea/vcs.xml
+.idea/vcs.xml
 /.gitignore
