@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity
                 //跳转第一个bundle中的FirstBundleActivity
                 switchToActivity("home","com.taobao.firstbundle.FirstBundleActivity");
                 Toast.makeText(RuntimeVariables.androidApplication,"on click",Toast.LENGTH_SHORT).show();
+                return true;
             }else if (itemId == R.id.navigation_dashboard) {
                 //跳转第二个bundle的SecondBundleActivity
                 switchToActivity("second","com.taobao.secondbundle.SecondBundleActivity");
@@ -48,9 +49,10 @@ public class MainActivity extends AppCompatActivity
                 return true;
             }else if(itemId == R.id.navigation_notifications) {
                 Intent intent3 = new Intent();
-                intent3.setClassName(getBaseContext(),"com.taobao.firstBundle.FirstBundleActivity");
+                intent3.setClassName(getBaseContext(),"com.taobao.firstbundle.FirstBundleActivity");
                 mActivityDelegate.execStartChildActivityInternal(mActivityGroupContainer,"third",intent3);
                 Toast.makeText(MainActivity.this, "待定被点击", Toast.LENGTH_SHORT).show();
+                return true;
             }
 //            switch (item.getItemId()) {
 //                case R.id.navigation_home://goFirst

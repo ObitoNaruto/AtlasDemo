@@ -11,6 +11,8 @@ import android.taobao.atlas.runtime.ClassNotFoundInterceptorCallback;
 import android.text.TextUtils;
 import android.widget.Toast;
 
+import com.mobile.android.log.LogManager;
+
 import org.osgi.framework.BundleException;
 
 import java.io.File;
@@ -25,10 +27,12 @@ public class DemoApplication extends Application {
     public void onCreate() {
 
         super.onCreate();
+        LogManager.getInstance().d("DemoApplication", "onCreate called!");
 
         Atlas.getInstance().setClassNotFoundInterceptorCallback(new ClassNotFoundInterceptorCallback() {
             @Override
             public Intent returnIntent(Intent intent) {
+                LogManager.getInstance().d("DemoApplication", "returnIntent called!");
                 final String className = intent.getComponent().getClassName();
                 final String bundleName = AtlasBundleInfoManager.instance().getBundleForComponet(className);
 

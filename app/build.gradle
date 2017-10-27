@@ -96,15 +96,15 @@ dependencies {
 //
 //    //业务bundle都是使用Atlas自定义的编译方法
     bundleCompile project(':launcher')
-//    bundleCompile project(':android-framework-sdk-api')
-//    bundleCompile project(':android-framework-sdk-middle')
-//    bundleCompile project(':firstbundle')
+    bundleCompile project(':android-framework-sdk-api')
+    bundleCompile project(':android-framework-sdk-middle')
+    bundleCompile project(':firstbundle')
 ////    //从私有库
 ////    //bundleCompile("com.taobao.demo:firstbundle:1.0.2@awb")
-//    bundleCompile project(':secondbundle')
-//    bundleCompile project(':remotebundle')
-//    bundleCompile project(':publicbundle')
-//    bundleCompile project(':databindbundle')
+    bundleCompile project(':secondbundle')
+    bundleCompile project(':remotebundle')
+    bundleCompile project(':publicbundle')
+    bundleCompile project(':databindbundle')
 }
 
 String getEnvValue(key, defValue) {
