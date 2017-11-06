@@ -165,6 +165,8 @@ public class ActivityGroupDelegate {
     }
 
     public void execStartChildActivityInternal(ViewGroup container,String key, Intent intent){
+        //移除内容部分全部的View
+        container.removeAllViews();
         String packageName = null;
         String componentName = null ;
         Context context = container.getContext();//MainActivity
