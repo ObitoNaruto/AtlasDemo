@@ -11,6 +11,7 @@ import android.taobao.atlas.runtime.ClassNotFoundInterceptorCallback;
 import android.text.TextUtils;
 import android.widget.Toast;
 
+import com.mobile.android.framework.AtlasWrapperApplication;
 import com.mobile.android.log.LogManager;
 
 import org.osgi.framework.BundleException;
@@ -21,11 +22,10 @@ import java.io.File;
  * Created by guanjie on 2017/3/16.
  */
 
-public class DemoApplication extends Application {
+public class DemoApplication extends AtlasWrapperApplication {
 
     @Override
     public void onCreate() {
-
         super.onCreate();
         LogManager.getInstance().d("DemoApplication", "onCreate called!");
 
@@ -35,6 +35,7 @@ public class DemoApplication extends Application {
                 LogManager.getInstance().d("DemoApplication", "returnIntent called!");
                 final String className = intent.getComponent().getClassName();
                 final String bundleName = AtlasBundleInfoManager.instance().getBundleForComponet(className);
+                LogManager.getInstance().d("DemoApplication", "returnIntent called! className:" + className + ", bundleName:" + bundleName);
 
                 if (!TextUtils.isEmpty(bundleName) && !AtlasBundleInfoManager.instance().isInternalBundle(bundleName)) {
 
@@ -68,5 +69,6 @@ public class DemoApplication extends Application {
             }
         });
 
+//        LogManager.getInstance().d("DemoApplication", "onCreate called!" + new AtlasWrapperApplication().toString());
     }
 }

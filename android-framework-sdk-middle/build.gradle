@@ -1,16 +1,16 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.taobao.atlas'
+//apply plugin: 'com.taobao.atlas'
 
-atlas {
-    bundleConfig {
-        awbBundle true
-    }
-    buildTypes {
-        debug {
-            baseApFile project.rootProject.file('app/build/outputs/apk/app-debug.ap')
-        }
-    }
-}
+//atlas {
+//    bundleConfig {
+//        awbBundle true
+//    }
+//    buildTypes {
+//        debug {
+//            baseApFile project.rootProject.file('app/build/outputs/apk/app-debug.ap')
+//        }
+//    }
+//}
 //group = 'com.atlas.demo'
 group = 'com.mobile.android.framework'
 version = '1.0.0'
@@ -36,11 +36,11 @@ android {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    providedCompile "com.android.support:appcompat-v7:$rootProject.ext.appcompat_v7Version"
-    providedCompile "com.android.support.constraint:constraint-layout:$rootProject.ext.constraint_layoutVersion"
+    compile "com.android.support:appcompat-v7:$rootProject.ext.appcompat_v7Version"
+    compile "com.android.support.constraint:constraint-layout:$rootProject.ext.constraint_layoutVersion"
 
-    providedCompile project(':middlewarelibrary')
-    providedCompile project(':android-framework-sdk-api')
+    compile project(':middlewarelibrary')
+    compile project(':android-framework-sdk-api')
 }
 
 apply plugin: 'maven'
